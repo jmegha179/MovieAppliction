@@ -1,0 +1,725 @@
+{
+    "images": "../images/admin.jpeg",
+    "Data": [{
+
+            "adult": false,
+            "backdrop_path": "/mGN0lH2phYfesyEVqP2xvGUaxAQ.jpg",
+            "belongs_to_collection": null,
+            "budget": 16000000,
+            "genres": [{
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+
+            "homepage": null,
+            "id": 101,
+            "imdb_id": "tt0110413",
+            "original_language": "fr",
+            "original_title": "Léon",
+            "overview": "Leon, the top hit man in New York, has earned a rep as an effective ",
+            "poster_path": "/gE8S02QUOhVnAmYu4tcrBlMTujz.jpg",
+            "production_companies": [{
+                    "id": 5,
+                    "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+                    "name": "Columbia Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 9,
+                    "logo_path": "/weCaiLyIQXuN7T5SH7zQEjQgUFs.png",
+                    "name": "Gaumont",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [{
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "1994-09-14",
+            "revenue": 45284974,
+            "runtime": 110,
+            "spoken_languages": [{
+                    "iso_639_1": "en",
+                    "name": "English"
+                },
+                {
+                    "iso_639_1": "fr",
+                    "name": "Français"
+                },
+                {
+                    "iso_639_1": "it",
+                    "name": "Italiano"
+                }
+            ],
+            "status": "Released",
+            "tagline": "If you want a job done well, hire a professional.",
+            "title": "Leon: The Professional",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 5277
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eACEgECmmQjMKsReNRWTHvzpYlu.jpg",
+            "belongs_to_collection": null,
+            "budget": 0,
+            "genres": [{
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "homepage": null,
+            "id": 102,
+            "imdb_id": "tt0315543",
+            "original_language": "da",
+            "original_title": "Elsker dig for evigt",
+            "overview": "Cecilie and Joachim are about to get married when a freak car accident leaves Joachim disabled, throwing their lives into a spin. The driver of the other car, Marie, and her family don’t get off lightly, either. Her husband Niels works in the hospital where he meets Cecilie and falls madly in love with her.",
+            "popularity": 2.146855,
+            "poster_path": "/hOrV2fCw2kmSiS4ZMGFPfXqr3lt.jpg",
+            "production_companies": [{
+                "id": 76,
+                "logo_path": null,
+                "name": "Zentropa Entertainments",
+                "origin_country": ""
+            }],
+            "production_countries": [{
+                "iso_3166_1": "DK",
+                "name": "Denmark"
+            }],
+            "release_date": "2002-09-06",
+            "revenue": 0,
+            "runtime": 113,
+            "spoken_languages": [{
+                "iso_639_1": "da",
+                "name": "Dansk"
+            }],
+            "status": "Released",
+            "tagline": "",
+            "title": "Open Hearts",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 31
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hjmJKAVoZ3n2KWbKgasbfdugwhu.jpg",
+            "belongs_to_collection": null,
+            "budget": 1300000,
+            "genres": [{
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "homepage": null,
+            "id": 103,
+            "imdb_id": "tt0075314",
+            "original_language": "en",
+            "original_title": "Taxi Driver",
+            "overview": "A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feeds his urge for violent action, attempting to save a preadolescent prostitute in the process.",
+            "popularity": 23.546571,
+            "poster_path": "/yxq4pk1xGmro8tQABuQIrWrvdaE.jpg",
+            "production_companies": [{
+                    "id": 46059,
+                    "logo_path": null,
+                    "name": "Italo/Judeo Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 46060,
+                    "logo_path": null,
+                    "name": "Bill/Phillips",
+                    "origin_country": ""
+                },
+                {
+                    "id": 5,
+                    "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+                    "name": "Columbia Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [{
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }],
+            "release_date": "1976-02-07",
+            "revenue": 28262574,
+            "runtime": 114,
+            "spoken_languages": [{
+                    "iso_639_1": "en",
+                    "name": "English"
+                },
+                {
+                    "iso_639_1": "es",
+                    "name": "Español"
+                }
+            ],
+            "status": "Released",
+            "tagline": "On every street in every city, there's a nobody who dreams of being a somebody.",
+            "title": "Taxi Driver",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 3396
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xzbAey8RrRNKOe6JZMuxbIRc1UE.jpg",
+            "belongs_to_collection": null,
+            "budget": 1530000,
+            "genres": [{
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "homepage": null,
+            "id": 104,
+            "imdb_id": "tt0130827",
+            "original_language": "de",
+            "original_title": "Lola rennt",
+            "overview": "Lola receives a phone call from her boyfriend Manni. He lost 100,000 DM in a subway train that belongs to a very bad guy. She has 20 minutes to raise this amount and meet Manni. Otherwise, he will rob a store to get the money. Three different alternatives may happen depending on some minor event along Lola's run.",
+            "popularity": 16.922068,
+            "poster_path": "/3L8QhF5IkZOnEnBFdpj6GVkkp7d.jpg",
+            "production_companies": [{
+                    "id": 7025,
+                    "logo_path": null,
+                    "name": "Westdeutscher Rundfunk (WDR)",
+                    "origin_country": ""
+                },
+                {
+                    "id": 1972,
+                    "logo_path": null,
+                    "name": "X-Filme Creative Pool",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [{
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }],
+            "release_date": "1998-08-20",
+            "revenue": 7267585,
+            "runtime": 81,
+            "spoken_languages": [{
+                    "iso_639_1": "de",
+                    "name": "Deutsch"
+                },
+                {
+                    "iso_639_1": "en",
+                    "name": "English"
+                },
+                {
+                    "iso_639_1": "ja",
+                    "name": "日本語"
+                }
+            ],
+            "status": "Released",
+            "tagline": "Every second of every day you're faced with a decision that can change your life.",
+            "title": "Run Lola Run",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 819
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x4N74cycZvKu5k3KDERJay4ajR3.jpg",
+            "belongs_to_collection": {
+                "id": 264,
+                "name": "Back to the Future Collection",
+                "poster_path": "/UV8VEgAxgKVnCVnZhFACmhxjE4.jpg",
+                "backdrop_path": "/c9C9Pg2QctyjZHRmS0P8rZg1OTA.jpg"
+            },
+            "budget": 19000000,
+            "genres": [{
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                }
+            ],
+            "homepage": "http://www.backtothefuture.com/movies/backtothefuture1",
+            "id": 105,
+            "imdb_id": "tt0088763",
+            "original_language": "en",
+            "original_title": "Back to the Future",
+            "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+            "popularity": 33.636872,
+            "poster_path": "/pTpxQB1N0waaSc3OSn0e9oc8kx9.jpg",
+            "production_companies": [{
+                    "id": 20448,
+                    "logo_path": null,
+                    "name": "U-Drive Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 33,
+                    "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                    "name": "Universal Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 56,
+                    "logo_path": "/mpGWkDeikYLeAR8LVNaixig0vwE.png",
+                    "name": "Amblin Entertainment",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [{
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }],
+            "release_date": "1985-07-03",
+            "revenue": 381109762,
+            "runtime": 116,
+            "spoken_languages": [{
+                "iso_639_1": "en",
+                "name": "English"
+            }],
+            "status": "Released",
+            "tagline": "He's the only kid ever to get into trouble before he was born.",
+            "title": "Back to the Future",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 7660
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zWnab2rDPLAyVY5i6OUv9jPTzCc.jpg",
+            "belongs_to_collection": {
+                "id": 399,
+                "name": "Predator Collection",
+                "poster_path": "/6Z7lASptoiRVxiCFvZaFgH9qp7u.jpg",
+                "backdrop_path": "/fXVzk9OxQwROCuiWvd0Cv76qmZi.jpg"
+            },
+            "budget": 18000000,
+            "genres": [{
+                    "id": 878,
+                    "name": "Science Fiction"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "homepage": null,
+            "id": 106,
+            "imdb_id": "tt0093773",
+            "original_language": "en",
+            "original_title": "Predator",
+            "overview": "Dutch and his group of commandos are hired by the CIA to rescue downed airmen from guerillas in a Central American jungle. The mission goes well but as they return they find that something is hunting them. Nearly invisible, it blends in with the forest, taking trophies from the bodies of its victims as it goes along. Occasionally seeing through its eyes, the audience sees it is an intelligent alien hunter, hunting them for sport, killing them off one at a time.",
+            "popularity": 28.13353,
+            "poster_path": "/p6fhq04t75yCfE0kSTNZGQvWuQ1.jpg",
+            "production_companies": [{
+                    "id": 5263,
+                    "logo_path": null,
+                    "name": "Amercent Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 5264,
+                    "logo_path": null,
+                    "name": "American Entertainment Partners L.P.",
+                    "origin_country": ""
+                },
+                {
+                    "id": 1302,
+                    "logo_path": "/oyzh3Ax1DLJ5gbNRgD6JgMz9Uvd.png",
+                    "name": "Davis Entertainment",
+                    "origin_country": ""
+                },
+                {
+                    "id": 840,
+                    "logo_path": null,
+                    "name": "Lawrence Gordon Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 1885,
+                    "logo_path": "/gMQ3oAjFyLIToDgrMKZgSCta3gT.png",
+                    "name": "Silver Pictures",
+                    "origin_country": ""
+                },
+                {
+                    "id": 25,
+                    "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+                    "name": "20th Century Fox",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [{
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }],
+            "release_date": "1987-06-11",
+            "revenue": 98235548,
+            "runtime": 107,
+            "spoken_languages": [{
+                    "iso_639_1": "en",
+                    "name": "English"
+                },
+                {
+                    "iso_639_1": "es",
+                    "name": "Español"
+                }
+            ],
+            "status": "Released",
+            "tagline": "If it bleeds, we can kill it...",
+            "title": "Predator",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 2599
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cNLZ7YGRikb4IsLblrzu86ndZPw.jpg",
+            "belongs_to_collection": null,
+            "budget": 10000000,
+            "genres": [{
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                }
+            ],
+            "homepage": null,
+            "id": 107,
+            "imdb_id": "tt0208092",
+            "original_language": "en",
+            "original_title": "Snatch",
+            "overview": "The second film from British director Guy Ritchie. Snatch tells an obscure story similar to his first fast-paced crazy character-colliding filled film “Lock, Stock and Two Smoking Barrels.” There are two overlapping stories here – one is the search for a stolen diamond, and the other about a boxing promoter who’s having trouble with a psychotic gangster.",
+            "popularity": 28.13376,
+            "poster_path": "/on9JlbGEccLsYkjeEph2Whm1DIp.jpg",
+            "production_companies": [{
+                    "id": 3287,
+                    "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+                    "name": "Screen Gems",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 13419,
+                    "logo_path": null,
+                    "name": "SKA Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 5,
+                    "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+                    "name": "Columbia Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [{
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2000-09-01",
+            "revenue": 83557872,
+            "runtime": 103,
+            "spoken_languages": [{
+                    "iso_639_1": "en",
+                    "name": "English"
+                },
+                {
+                    "iso_639_1": "ru",
+                    "name": "Pусский"
+                }
+            ],
+            "status": "Released",
+            "tagline": "Stealin' Stones and Breakin' Bones.",
+            "title": "Snatch",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 3509
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dIXPijiNZ9JsMaFWD67bFwUtZdo.jpg",
+            "belongs_to_collection": {
+                "id": 131,
+                "name": "Three Colors Collection",
+                "poster_path": "/rVdd23QuT5rHX7lZvuAkRRUkeCZ.jpg",
+                "backdrop_path": "/AeHExfHIl70SZCea907KfEoSkfJ.jpg"
+            },
+            "budget": 0,
+            "genres": [{
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10402,
+                    "name": "Music"
+                },
+                {
+                    "id": 9648,
+                    "name": "Mystery"
+                }
+            ],
+            "homepage": null,
+            "id": 108,
+            "imdb_id": "tt0108394",
+            "original_language": "fr",
+            "original_title": "Trois couleurs : Bleu",
+            "overview": "A woman struggles to find a way to live her life after the death of her husband and child.",
+            "popularity": 8.521337,
+            "poster_path": "/ztIqf7yGmb4JRFiv2i62K6PhTQR.jpg",
+            "production_companies": [{
+                    "id": 591,
+                    "logo_path": null,
+                    "name": "France 3 Cinéma",
+                    "origin_country": ""
+                },
+                {
+                    "id": 1610,
+                    "logo_path": null,
+                    "name": "CED Productions",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [{
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                },
+                {
+                    "iso_3166_1": "PL",
+                    "name": "Poland"
+                }
+            ],
+            "release_date": "1993-01-10",
+            "revenue": 0,
+            "runtime": 98,
+            "spoken_languages": [{
+                    "iso_639_1": "fr",
+                    "name": "Français"
+                },
+                {
+                    "iso_639_1": "pl",
+                    "name": "Polski"
+                }
+            ],
+            "status": "Released",
+            "tagline": "",
+            "title": "Three Colors: Blue",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 399
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vDjKiiCsJah9qVutwTY07D5GIK5.jpg",
+            "belongs_to_collection": {
+                "id": 131,
+                "name": "Three Colors Collection",
+                "poster_path": "/rVdd23QuT5rHX7lZvuAkRRUkeCZ.jpg",
+                "backdrop_path": "/AeHExfHIl70SZCea907KfEoSkfJ.jpg"
+            },
+            "budget": 0,
+            "genres": [{
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 9648,
+                    "name": "Mystery"
+                }
+            ],
+            "homepage": null,
+            "id": 109,
+            "imdb_id": "tt0111507",
+            "original_language": "fr",
+            "original_title": "Trois couleurs : Blanc",
+            "overview": "Polish immigrant Karol Karol finds himself out of a marriage, a job and a country when his French wife, Dominique, divorces him after six months due to his impotence. Forced to leave France after losing the business they jointly owned, Karol enlists fellow Polish expatriate Mikolah to smuggle him back to their homeland.",
+            "popularity": 9.256411,
+            "poster_path": "/xOLY69rXKwuH9JUnOE4G2HHKiW5.jpg",
+            "production_companies": [{
+                    "id": 183,
+                    "logo_path": null,
+                    "name": "Le Studio Canal+",
+                    "origin_country": ""
+                },
+                {
+                    "id": 591,
+                    "logo_path": null,
+                    "name": "France 3 Cinéma",
+                    "origin_country": ""
+                },
+                {
+                    "id": 850,
+                    "logo_path": null,
+                    "name": "Eurimages",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [{
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                },
+                {
+                    "iso_3166_1": "PL",
+                    "name": "Poland"
+                }
+            ],
+            "release_date": "1994-01-26",
+            "revenue": 0,
+            "runtime": 91,
+            "spoken_languages": [{
+                    "iso_639_1": "fr",
+                    "name": "Français"
+                },
+                {
+                    "iso_639_1": "hu",
+                    "name": "Magyar"
+                },
+                {
+                    "iso_639_1": "pl",
+                    "name": "Polski"
+                }
+            ],
+            "status": "Released",
+            "tagline": "",
+            "title": "Three Colors: White",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 271
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nL5wZvZjAi11kP9HSWYIdyiGhN8.jpg",
+            "belongs_to_collection": {
+                "id": 131,
+                "name": "Three Colors Collection",
+                "poster_path": "/rVdd23QuT5rHX7lZvuAkRRUkeCZ.jpg",
+                "backdrop_path": "/AeHExfHIl70SZCea907KfEoSkfJ.jpg"
+            },
+            "budget": 0,
+            "genres": [{
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 9648,
+                    "name": "Mystery"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "homepage": null,
+            "id": 110,
+            "imdb_id": "tt0111495",
+            "original_language": "fr",
+            "original_title": "Trois couleurs : Rouge",
+            "overview": "Red This is the third film from the trilogy by Kieślowski. “Red” meaning brotherliness. Here Kieślowski masterly tells strange coincidentally linked stories in the most packed work.",
+            "popularity": 7.169441,
+            "poster_path": "/77CFEssoKesi4zvtADEpIrSKhA3.jpg",
+            "production_companies": [{
+                    "id": 38,
+                    "logo_path": null,
+                    "name": "Zespół Filmowy TOR",
+                    "origin_country": ""
+                },
+                {
+                    "id": 183,
+                    "logo_path": null,
+                    "name": "Le Studio Canal+",
+                    "origin_country": ""
+                },
+                {
+                    "id": 591,
+                    "logo_path": null,
+                    "name": "France 3 Cinéma",
+                    "origin_country": ""
+                },
+                {
+                    "id": 1245,
+                    "logo_path": null,
+                    "name": "Télévision Suisse-Romande",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [{
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                },
+                {
+                    "iso_3166_1": "PL",
+                    "name": "Poland"
+                },
+                {
+                    "iso_3166_1": "CH",
+                    "name": "Switzerland"
+                }
+            ],
+            "release_date": "1994-05-27",
+            "revenue": 0,
+            "runtime": 99,
+            "spoken_languages": [{
+                "iso_639_1": "fr",
+                "name": "Français"
+            }],
+            "status": "Released",
+            "tagline": "",
+            "title": "Three Colors: Red",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 320
+        }
+    ]
+}
